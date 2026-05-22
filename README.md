@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Movie App
+A React movie search application using API.
+
+## Features
+- Search movies
+- View movie details
+- Responsive design
+
+## Tech Stack
+- React.js
+- JavaScript
+- HTML
+- CSS
+
+## Author
+Payyavula
+>>>>>>> fde6f67a8a7a850ba8821a6018abc56484be7ad9
